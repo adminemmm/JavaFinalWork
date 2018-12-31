@@ -45,7 +45,7 @@
 #### ArrayList<creature>存放尸体。
 ### 注解
 #### @Override重写和@Test测试
-###  异常处理
-####  例如try{sleep(100);}catch(Exception e){e.printtracktrace();}
-###  继承和多态、封闭
-####  多种生物对Creature类的继承，大部分成员为private，需要相应的方法获取；@Override实现多态。
+### 异常处理
+#### 例如try{sleep(100);}catch(Exception e){e.printtracktrace();}
+### 继承和多态、封闭
+#### 多种生物对Creature类的继承，大部分成员为private，需要相应的方法获取；@Override实现多态。
